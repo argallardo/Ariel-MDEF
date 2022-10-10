@@ -5,6 +5,8 @@ hide:
 
 # Atlas of Weak Signals
 
-Lorr incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My fight is to connect different perspectives, points of view or expectations, and create a system, a product or a service. It is the ability to translate two worlds, and create a new one.
+
+These 3 photos represent this. She was Marie Reiche, a German archaeologist who traveled through South America with a ladder, because she realized that when you saw stones on the ground they meant nothing, but as you climbed the stairs the same stones formed a bird, a flower, a system. For me, she was a very good translator.
 
 ![](../images/MT01/scorpio_blow.jpg)
