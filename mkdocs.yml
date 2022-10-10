@@ -3,7 +3,7 @@ site_name: Ariel Gallardo - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Ariel Gallardo
 copyright: Copyleft 2021 "Ariel Gallardo" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
+repo_name: ''
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
@@ -39,7 +39,7 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: indigo
-    accent: purple
+    accent: blue grey
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
