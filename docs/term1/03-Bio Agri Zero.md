@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Bio - Agro Zero
+# Bio - Agri Zero
 
 # Experience
 
