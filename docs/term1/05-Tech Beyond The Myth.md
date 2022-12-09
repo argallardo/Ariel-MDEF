@@ -3,45 +3,36 @@ hide:
     - toc
 ---
 
-# Living with your own ideas
+# Tech Beyond the Myth
+
+![](../images/printer.jpg)
+
 
 # Experience
 
-My fight is to connect different point of views and design new ways of understanding problems and solutions, as a strategy to build strong societies and better "common worlds".
+The first week of the course was a flashback to my time in Engineering School in Chile. I have had similar reverse engineering experiences and many times they did not go well. We started by choosing the biggest device, a printer with scanner and fax system. Our anxiety to start working made us not to listen to the instructions, and we plugged the printer and we could identify that the mechanical system to move the paper did not work. Just with that clue we started to disassemble the system, it was amazing! I was very impressed with all the systems inside, we had mechanical, power, electronics, years of engineering and study that allow us to have smarter, smaller printers with more functionality. It is very impressive how they match all the pieces, and how each piece is unique and probably not replaceable.
 
-My personal work experience and the reality of my country have guided my motivation. I would like to change the way I recognized and measured the impacts of industry on environment and the lives of communities near such business.
+The system with which the printer recreates documents and images by ejecting ink through small holes at a very precise speed, location and volume, amazed me. Many people should think that the way a printer puts an image on paper is magic, and understanding how it works is a big step.
 
-Change is not easy, because many times we must change our habits, and our quality of life, because we have to get out of our comfort zone.
+I also learned about the printer business, many times companies put chips inside the ink cartridges, and that way you can only use their products.  Finally, it is revealing the low price for a printer that is actually very complex and has so many things, may be the reason about the excessive amount of plastic parts.
 
-What is the cost of changing our habits? How do I feel when I have to change my routine because it would be better for the community, but maybe worse for me, because it is not my preference?
+More reflections in our Forensic Report
+https://hackmd.io/IFpmoizIRRygTzq2N4Cxwg?both
 
-When I arrived in BCN, I wanted to lead a more active life. I said to myself "I'm going to go to the university by bike" or "I'm going to walk all the time", but the reality is very different. Actually when I have to go to the university or to another neighborhood I always use public transport, I have rarely walked, for me using public transport is more comfortable and it is my preference.
+![](../images/printer2.jpg)
 
-• What did you make? Why did it matter?
+We started the second week feeling very smart, because even though it took us a long time to disassemble our machine, we had a lot of parts and systems to develop our own machine. However, it was very hard for us to coordinate our work and make decisions. We had a lot of uncertain, we didn't know what we could do and how to do it. We wasted a lot of time trying to experiment with different systems, different ideas, and we didn't have enough knowledge. It reminded me of my traumatic experience years ago, when I was in engineering school, because many times we were challenged to use arduino and other tools, but we didn't know how to use them.
 
-With all of this thing on mind I challenged me walking each time I should to go to any place. It’s my way to be more close to “my new me” and a way to analyze how I feeling when I should changing my routine and take a different decision that is better for me. My goal was registered my feelings after a long walk, my time travel and distance, and then compare this with my previous situation.
+The difference in that case is the accompaniment of the IAAC teachers. Here the professors know how to work with arduino, and they are able to recognize when an idea can be complex. When we had problems coding or with electronic systems, they knew how to solve it, and if they didn't know, they knew how to find solutions. That made my experience not traumatic, unlike my previous experience.
 
-• What happens when you involve yourself?
+I learned that many times your ideas are limited by your capabilities, and the relevance of always taking into account time and other resources. If we had thought about it earlier, maybe we wouldn't have wasted so much time. Very late in the experience we were able to agree on a device, and then we defined the concept behind it. Even though everything worked and the framing between our narrative and our device was interesting, this came out in an improvised way, contrary to what methodologically needs to be done.
 
-When I started the challenge, not only did it change the way I moved from one place to another, but also part of my day: my lunch schedule, my available time to relax, my time to meet with friends. All of that influenced my mood, for example when I wanted to get home as fast as possible, I could not take the most efficient route because I could only walking. This allowed me to realize that decisions can actually influence a lot other dimensions, so you have to be as aware as possible of the consequences that a decision (like just walking) can have.
+Our presentation
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVy8sv3d9oTM14bMLpsKpcohHn6BwBfrznbxD4ZUV18_PeU7aVOu3k29D9Qf3NHLCfduJBUqmn1X-x/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-• What happens when you use yourself as an instrument?
+Our video
+https://drive.google.com/file/d/1K5mMJZvlZI5rtww_4yWLKlHhEq2S76j-/view?usp=share_link
 
-I started to become aware of things that I didn't realize before when I was walking. Two important elements I became aware of is how my feeling of security varied depending on the time of day and the neighborhood I was in. Similarly, one day when I went jogging in my neighborhood I noticed the low female presence and questioned how it could be a different experience to do sports in public for a woman than for a man, and the need to design with a gender perspective, especially in Latin American countries. This kind of things has probably always happened, but I had not even seen it.
-
-• Did anything change about your way of working?
-
-The biggest change was associated with being constantly critical about what I am doing. Many times I just execute tasks and try to fulfill the expected objectives, but I do a very basic exercise of assimilation of learning. Many times learning is not merely theoretical, but has to do with sensitivities, emotional experiences, urban experiences, among others. Recording and monitoring is a relevant element to recognize opportunities and spaces for action or changes.
-
-
-• What does it mean for your future work?
-
-For my future work the creation process is also a learning process, so it is relevant not only to pay attention to the final product, but also to everything that was involved, including my personal experience, which can be an input for future improvements. On the other hand, I realized through the exercise the need to consider profiles different from mine in order to have a correct appreciation of the problem, because my experience walking around of Barcelona can be very different from a woman's or a child's, so testing is a very important part of the process.
-
-• After seeing the videos of your design space collective, how
-does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?
-
-The work of my classmates was inspiring mainly because they all connected it with a personal motivation, which helps me to nourish myself with respect to different ideas and concepts to which I did not have access before. Mainly the challenges associated with the recording of feelings I found extremely important and revealing, and they also used instruments that were unknown to me until now, which expanded my tools to develop my master's project. On the other hand, some of them were extremely innovative in their recordings, both in what they measured and how they did it. This was inspiring, because it was a departure from the measurements traditionally made in my discipline, such as those I made of travel time and distance traveled.
 
 
 
