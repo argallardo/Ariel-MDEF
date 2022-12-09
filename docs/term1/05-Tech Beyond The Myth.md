@@ -5,7 +5,7 @@ hide:
 
 # Tech Beyond the Myth
 
-![](../images/printer.jpg)
+![](../images/printer.jpeg)
 
 
 # Experience
@@ -19,7 +19,7 @@ I also learned about the printer business, many times companies put chips inside
 More reflections in our Forensic Report
 https://hackmd.io/IFpmoizIRRygTzq2N4Cxwg?both
 
-![](../images/printer2.jpg)
+![](../images/printer2.jpeg)
 
 We started the second week feeling very smart, because even though it took us a long time to disassemble our machine, we had a lot of parts and systems to develop our own machine. However, it was very hard for us to coordinate our work and make decisions. We had a lot of uncertain, we didn't know what we could do and how to do it. We wasted a lot of time trying to experiment with different systems, different ideas, and we didn't have enough knowledge. It reminded me of my traumatic experience years ago, when I was in engineering school, because many times we were challenged to use arduino and other tools, but we didn't know how to use them.
 
