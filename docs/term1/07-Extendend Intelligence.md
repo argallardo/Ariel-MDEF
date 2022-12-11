@@ -25,7 +25,7 @@ Presentation
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUE_cADDY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUE_cADDY&#x2F;view?utm_content=DAFUE_cADDY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Presentación Portafolio minimalista y profesional en color blanco, negro y gris </a> de June Bascaran Bilbao
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUE_cADDY&#x2F;view?utm_content=DAFUE_cADDY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"> Sexist Behavior Detector</a> de June Bascaran Bilbao
 
 Report
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQFHNEfPiHbT7I1xYa3L1BPjesR3HJ57-LU7ln63pWm-TeKucTnDj9SQvvR3T2sdNhZKqxbIaZ3YvJl/pub?embedded=true"></iframe>
