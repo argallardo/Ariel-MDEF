@@ -3,45 +3,32 @@ hide:
     - toc
 ---
 
-# Living with your own ideas
+# Extendend Intelligence
 
 # Experience
 
-My fight is to connect different point of views and design new ways of understanding problems and solutions, as a strategy to build strong societies and better "common worlds".
+I had worked on this kind of thing before, not from an applied perspective, but in a strategic way. This course has been a complete refresher on these issues. Many of the companies I have advised before have faced dilemmas similar to what we learned in the course. Increasingly the ethics behind new technologies and algorithms are a relevant point to study. I remember some new devices for shopping malls that could recognize people's faces and clothing styles, and in that way the store could plan its supply chain. In a nutshell, the controversy was: poor and rich dressed differently. If stores repeat this pattern, is it a way of reproducing stereotypes?
 
-My personal work experience and the reality of my country have guided my motivation. I would like to change the way I recognized and measured the impacts of industry on environment and the lives of communities near such business.
+The first week allowed me to understand what is going on behind AI and new technologies. It made me question how many devices hide deep dilemmas, which we need to talk about first. For the assignment we were challenged to think of a device of the future, we iterated on different alternatives, but we always encountered ethical issues, it was very difficult, because we had to be creative even though we could recognize that we were working on something that might be unethical.
 
-Change is not easy, because many times we must change our habits, and our quality of life, because we have to get out of our comfort zone.
+After our journey trying to define our idea, we chose a device that could detect sexist behavior in nightclubs, and if the device detects a dangerous situation, it will change the music, a way to control the environment. It could be questionable, because it didn't face the real problem, but it was still a positive action.  
 
-What is the cost of changing our habits? How do I feel when I have to change my routine because it would be better for the community, but maybe worse for me, because it is not my preference?
+When we were working on it, for me it was very encouraging to see that a lot of people are working on detecting sexism around the world. In many of the datasets we were able to find there were many people collaborating in their construction. Also, it was surprising to me how easy it was to build a dataset and how powerful these kinds of tools can be. It opened my eyes to consider having my project based on these tools. My vacation challenge is to investigate what exists and how I might use it. My first step is to set up a meeting with Pau.
 
-When I arrived in BCN, I wanted to lead a more active life. I said to myself "I'm going to go to the university by bike" or "I'm going to walk all the time", but the reality is very different. Actually when I have to go to the university or to another neighborhood I always use public transport, I have rarely walked, for me using public transport is more comfortable and it is my preference.
+Check our work:
 
-• What did you make? Why did it matter?
+Presentation
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUE_cADDY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUE_cADDY&#x2F;view?utm_content=DAFUE_cADDY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Presentación Portafolio minimalista y profesional en color blanco, negro y gris </a> de June Bascaran Bilbao
 
-With all of this thing on mind I challenged me walking each time I should to go to any place. It’s my way to be more close to “my new me” and a way to analyze how I feeling when I should changing my routine and take a different decision that is better for me. My goal was registered my feelings after a long walk, my time travel and distance, and then compare this with my previous situation.
-
-• What happens when you involve yourself?
-
-When I started the challenge, not only did it change the way I moved from one place to another, but also part of my day: my lunch schedule, my available time to relax, my time to meet with friends. All of that influenced my mood, for example when I wanted to get home as fast as possible, I could not take the most efficient route because I could only walking. This allowed me to realize that decisions can actually influence a lot other dimensions, so you have to be as aware as possible of the consequences that a decision (like just walking) can have.
-
-• What happens when you use yourself as an instrument?
-
-I started to become aware of things that I didn't realize before when I was walking. Two important elements I became aware of is how my feeling of security varied depending on the time of day and the neighborhood I was in. Similarly, one day when I went jogging in my neighborhood I noticed the low female presence and questioned how it could be a different experience to do sports in public for a woman than for a man, and the need to design with a gender perspective, especially in Latin American countries. This kind of things has probably always happened, but I had not even seen it.
-
-• Did anything change about your way of working?
-
-The biggest change was associated with being constantly critical about what I am doing. Many times I just execute tasks and try to fulfill the expected objectives, but I do a very basic exercise of assimilation of learning. Many times learning is not merely theoretical, but has to do with sensitivities, emotional experiences, urban experiences, among others. Recording and monitoring is a relevant element to recognize opportunities and spaces for action or changes.
-
-
-• What does it mean for your future work?
-
-For my future work the creation process is also a learning process, so it is relevant not only to pay attention to the final product, but also to everything that was involved, including my personal experience, which can be an input for future improvements. On the other hand, I realized through the exercise the need to consider profiles different from mine in order to have a correct appreciation of the problem, because my experience walking around of Barcelona can be very different from a woman's or a child's, so testing is a very important part of the process.
-
-• After seeing the videos of your design space collective, how
-does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?
-
-The work of my classmates was inspiring mainly because they all connected it with a personal motivation, which helps me to nourish myself with respect to different ideas and concepts to which I did not have access before. Mainly the challenges associated with the recording of feelings I found extremely important and revealing, and they also used instruments that were unknown to me until now, which expanded my tools to develop my master's project. On the other hand, some of them were extremely innovative in their recordings, both in what they measured and how they did it. This was inspiring, because it was a departure from the measurements traditionally made in my discipline, such as those I made of travel time and distance traveled.
+Report
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQFHNEfPiHbT7I1xYa3L1BPjesR3HJ57-LU7ln63pWm-TeKucTnDj9SQvvR3T2sdNhZKqxbIaZ3YvJl/pub?embedded=true"></iframe>
 
 
 
