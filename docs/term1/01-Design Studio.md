@@ -27,11 +27,10 @@ After sharing my fight and interests with my peers, I created my personal develo
 
 When I was studying engineering, the most typical prototype I used was Role 1, related to testing different aspects or functions of my projects. In 2017 I was doing the course “Research, Innovation and Entrepreneurship” at the Faculty of Engineering, and my team and I developed a medical device to help "claw hands", a degenerative disease suffered by people with dementia and other types of ailments. It was a very extensive prototyping process, because we tested the dimensions, the materials, the technology and the physical exercises.
 
-IMAGEN
-
 Also, when I was in the “Visual Thinking” course, we were challenged to represent our conclusions after researching with public data. Role number 3. I investigated the relationship between quality of life and travel time from home to work. In that project I tried to represent inequality in Chile, because people who live in poor neighborhoods take longer time to go to work, while people who live in rich neighborhoods take a minimum time to go to work. I represented that with different tubes (printed in 3D), each one represented a neighborhood, and they moved towards the center at different speeds (with an engine and Arduino). The tubes representing the rich neighborhoods were faster than those representing the poor.
 
-IMAGEN
+![](../images/pens.png)
+
 
 ## Roles of prototyping: new opportunities
 
