@@ -7,7 +7,7 @@ hide:
 
 # Weak signals
 
-![](../images/designspace.jpg)
+![](../images/dsp.jpg)
 
 After an interesting process of playing with the Atlas of Weak Signals cards, I chose two main weak signals: “Climate Conscience” and “Dismantling filter bubbles”. My reasons are connected with my previous experience as consultant of community relationship. In that role, I worked on a project where we needed to design a relationship between a community and a mining company. The problem was that the company produced a lot of dust, and that created a yellow cloud during the morning. This generates two different positions, in one hand the community claimed for the contamination, on the other hand, the company argues that the level of contamination is lower than the standard allowed by the government. What can we do with it?
 
