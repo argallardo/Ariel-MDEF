@@ -5,6 +5,23 @@ hide:
 
 # Living with your own ideas
 
+# Make a companion
+
+![](../images/compa.png)
+
+
+Inside out is a tool that helps people recognize the different emotions they felt during the day. Every emotion is a cone and it has a support network like friends, family, boyfriend/girlfriend associates behind, as a way to remind yourself that you are not alone and that you can activate them. If you are feeling more than one emotion, you can only put cones together!
+
+How will they live together?
+For a day I will have Inside out with me and every hour I will record my emotions
+
+What were you thinking?
+Many times we are closed in our emotions and we don't know what we are feeling. How can we change/solve/learn about something if we are not able to recognize it? On the other hand, if you are happy or scared, you can share it with your friends/family/pets, you are not alone.
+
+Why does that matter?
+Human emotions are reflected in interpersonal relationships, if you cultivate these networks you will be building solid relationships with others, that way you can feel accompanied regardless of what you are feeling.
+
+
 # Experience
 
 My fight is to connect different point of views and design new ways of understanding problems and solutions, as a strategy to build strong societies and better "common worlds".
@@ -43,7 +60,8 @@ does it change your understanding of it, present new opportunities or inspire ne
 
 The work of my classmates was inspiring mainly because they all connected it with a personal motivation, which helps me to nourish myself with respect to different ideas and concepts to which I did not have access before. Mainly the challenges associated with the recording of feelings I found extremely important and revealing, and they also used instruments that were unknown to me until now, which expanded my tools to develop my master's project. On the other hand, some of them were extremely innovative in their recordings, both in what they measured and how they did it. This was inspiring, because it was a departure from the measurements traditionally made in my discipline, such as those I made of travel time and distance traveled.
 
-
+Video
+https://drive.google.com/file/d/1enCoNOVYWmEytMF2LO4ZY5YBcFyrA1ns/view?usp=sharing
 
 
 
