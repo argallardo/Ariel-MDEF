@@ -7,8 +7,6 @@ hide:
 
 ## Reflections
 
-![](../images/fight.jpg)
-
 On the final day we closed the course on the beach and I felt very identified with Clodi's words. The course for the first time made me have a positive perspective on the future. For my work I had to investigate trends associated with mental health and nowadays eco anxiety is an issue present in many young people. I believe that the course was a contribution in that sense, since it allowed me to learn about perspectives that invite you to be an active actor in society and design for a better future.
 
 I am also grateful that it made me aware of many things that happen around me, such as how eclipsed I was by my smartphone. The professor proposed interesting exercises to question our routine and be more mindful of what we are doing.
@@ -36,7 +34,5 @@ Keep enjoying Barcelona, it will be your best years.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh-iCJGii6zHYRcIqGsjryyd88R9pQk-h5pSbr2NkLgoZpnZC-N77cgh8_q4E0TPQ89UbzRO5QHiaq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
-![](../images/space.jpg)
 
 ![](../images/MT01/scorpio_blow.jpg)
