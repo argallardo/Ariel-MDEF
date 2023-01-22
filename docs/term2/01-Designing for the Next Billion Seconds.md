@@ -3,55 +3,39 @@ hide:
     - toc
 ---
 
-# Design Studio
+# Designing for the Next Billion Seconds
 
-## My fight
+## Reflections
 
 ![](../images/fight.jpg)
 
-My fight is to connect different perspectives, points of view or expectations, and create a system, a product or a service. It is the ability to translate two worlds, and create a new one.
+On the final day we closed the course on the beach and I felt very identified with Clodi's words. The course for the first time made me have a positive perspective on the future. For my work I had to investigate trends associated with mental health and nowadays eco anxiety is an issue present in many young people. I believe that the course was a contribution in that sense, since it allowed me to learn about perspectives that invite you to be an active actor in society and design for a better future.
 
-These 3 photos represent this. She was Marie Reiche, a German archaeologist who traveled through South America with a ladder, because she realized that when you saw stones on the ground they meant nothing, but as you climbed the stairs the same stones formed a bird, a flower, a system. For me, she was a very good translator.
+I am also grateful that it made me aware of many things that happen around me, such as how eclipsed I was by my smartphone. The professor proposed interesting exercises to question our routine and be more mindful of what we are doing.
 
-## Personal development plan
-
-After sharing my fight and interests with my peers, I created my personal development plan, based on my previous experiences and my learning expectations.
-
-![](../images/personal.jpg)
-
-## Analysis of my development
-
-![](../images/study.jpg)
-
-## Roles of prototyping: previous experience
-
-When I was studying engineering, the most typical prototype I used was Role 1, related to testing different aspects or functions of my projects. In 2017 I was doing the course “Research, Innovation and Entrepreneurship” at the Faculty of Engineering, and my team and I developed a medical device to help "claw hands", a degenerative disease suffered by people with dementia and other types of ailments. It was a very extensive prototyping process, because we tested the dimensions, the materials, the technology and the physical exercises.
-
-Also, when I was in the “Visual Thinking” course, we were challenged to represent our conclusions after researching with public data. Role number 3. I investigated the relationship between quality of life and travel time from home to work. In that project I tried to represent inequality in Chile, because people who live in poor neighborhoods take longer time to go to work, while people who live in rich neighborhoods take a minimum time to go to work. I represented that with different tubes (printed in 3D), each one represented a neighborhood, and they moved towards the center at different speeds (with an engine and Arduino). The tubes representing the rich neighborhoods were faster than those representing the poor.
-
-![](../images/pens.png)
+Finally, I found the concept of degrowth very interesting. With the Colonizados Club (Latinos in the master's) we were discussing how many of the dimensions reviewed during the presentation could be reflected in our countries, and also how the first world often hides its impacts in countries like ours, which have all the externality of mining and production of raw materials.
 
 
-## Roles of prototyping: new opportunities
+## One day in 2052
 
-My fight is to connect different perspectives, points of view or expectations, and create a new system, product or service. With this objective, role number 4, the prototyping process as a consultation vehicle, is very important, because if I want a good creation I have to worry about the process, and not just the final product/service. Legitimacy depends on how we build. I believe that this sentence can be explained with the same arguments used by the robotic arm in the text Prototypes and Prototyping in Design Research.
+My proposal was much more pessimistic than that of my peers. I was impressed that I did things much more down to earth, it showed that I am still not detached from my engineering mentality. I didn't think it’s bad, but it still surprised me.
 
-“But the robotic arm example is also one where the contribution to knowledge can only occur through an iterative prototyping process: we cannot discover the principles or requirements for building a robotic arm without thinking about design possibilities. , propose, build, test, reconfigure, etc., an artifact that iteratively clarifies our understanding of this particular design space.”
-
-## Desired
-
-With this in mind, I would like to make an open and permanent iterative process, which is solid in the technical aspects, but which is open to the construction of the product/service from collective intelligence. Legitimacy is built with clear and inclusive criteria, where the participation of both, scientific and profane knowledge, prevails and in a context willing to redefine concepts, practices and norms, in order to generate new agreements. In this sense, the process is a very relevant part of the construction, so it must be permanently documented, analyzed and criticized.
-
-On the other hand, the conclusions obtained through a collective construction are not always correct. The product/service generated must be prototyped to ensure its effectiveness, that it serves for the change that is to be achieved. Therefore, it must be tested empirically, from a qualitative (for example, interviews) and/or quantitative (for example, data recording) aspect.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQuhc7gS304Rj2MsEW4yhMRSDmjQjbaMZWcVj-wVk2TmSnKyCv-Nj7imllkfpdDiw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-## Work space
+## Letter for the future
 
-The master's degree has been an experience of connecting with many new talents, spaces, and tools. Making a comparison, today what I have available to address the professional I want to be are much more varied and nutritious.
+Dear Ariel,
 
-The exercise of designing my new workspace has helped me realize the good networks in Chile. However, my challenge is to be able to expand those links to new talents, who can deliver new perspectives.
+I am writing to tell you about some of the most surprising changes you could imagine. The COVID 19 pandemic was an era changer around the world, many people, communities and countries began to mutate, changing their leadership, their governance systems and their expectations of success. Despite the various power struggles that emerged, over the years humanity faced one challenge as a whole, the climate crisis. For some, the lack of water, extreme temperatures and loss of biodiversity were a community alarm, the COVID 19 pandemic was like a preventive lesson, we all knew that this problem went beyond borders or ideologies. This is how society realized that the only way to prosper was united. On the other hand, the risk to our ecosystem made us finally understand that we were not the only species on this planet, so technologies advanced in a way that allowed us to monitor, safeguard and regenerate the environment. At some point we feared a world war for water, however, the knowledge distributed thanks to the internet and collaborative scientific work, allowed us to find a solution to the problem jointly among countries, thus avoiding competition for the resource. Today we have new challenges, such as deepening our link with nature, so that our impact does not mean further deterioration. How will it end? I do not know, as in previous historical moments there are dichotomous positions, however I have faith that we will solve it.
 
-I see it as a very good opportunity to take advantage of the knowledge obtained in the Smart Citizen project, since part of my interest is related to participation and citizen sensing.
+Keep enjoying Barcelona, it will be your best years.
+
+
+## Time capsule
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh-iCJGii6zHYRcIqGsjryyd88R9pQk-h5pSbr2NkLgoZpnZC-N77cgh8_q4E0TPQ89UbzRO5QHiaq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 ![](../images/space.jpg)
 
