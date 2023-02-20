@@ -112,6 +112,8 @@ my team
 
 The biggest difficulty was in the electronics, I was in charge of the board lights and because of a bad connection inside the board, our progress was stopped for a few hours. Much of the FabLab team was helping me with the problem, my led would light up when any object approached it, something much more complex than we needed. Then the problem was to connect all the pins to the arduino, the positive thing is that we were able to correct it fast.
 
+<iframe src="https://drive.google.com/file/d/12tr7VCuyKRRafzAmV4nki7mt7R9APIFF/preview" width="640" height="480" allow="autoplay"></iframe>
+
 In the next steps I would like to involve more technology, I saw in Clodi and Mari's project the use of an application that they created and people could interact with their device and at the same time with cell phones, I think that is a tremendous development opportunity for us.
 
 ![](../images/yo.jpeg)
