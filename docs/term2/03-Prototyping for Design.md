@@ -101,9 +101,15 @@ I think our idea is quite useful for facilitating discussion processes and team 
 
 Our structure based on: discussion of idea, planning and then execution was very useful to make the experience not so traumatic. Thanks to this activity I remembered how to use the laser cutter and imagine future uses for personal projects. Work with rhino designing the emoji tokens and cutting them on the machine. In the first iteration with cardboard Wen took the lead since she already knew how to use it and the second day with wood, Jimena and I made the cuts.
 
+![](../images/team.jpeg)
+my team
+
 The biggest difficulty was in the electronics, I was in charge of the board lights and because of a bad connection inside the board, our progress was stopped for a few hours. Much of the FabLab team was helping me with the problem, my led would light up when any object approached it, something much more complex than we needed. Then the problem was to connect all the pins to the arduino, the positive thing is that we were able to correct it fast.
 
 In the next steps I would like to involve more technology, I saw in Clodi and Mari's project the use of an application that they created and people could interact with their device and at the same time with cell phones, I think that is a tremendous development opportunity for us.
+
+![](../images/yo.jpeg)
+my team
 
 Another improvement is to use sensors and lights to better guide the activity, for example as more people have an opinion the square could be illuminated or instead of having LEDs we could have a series of lights that change color according to the gradient.
 
