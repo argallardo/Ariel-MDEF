@@ -99,7 +99,7 @@ Then Toni provided me with his code and arduino to test it on my computer and tr
 ![](../images/inarduino.png)
 
 
-## Challenge
+## First Micro Challenge
 
 Working with Jimena and Wen is very comfortable, in general it is very easy for us to make decisions, which facilitates our work and allows us to move forward more quickly. The idea was different from the one I proposed, and we did not make a game, but a perception map, as a way to stimulate debate, the generation of new ideas and literacy on issues of climate crisis, mental health and gender equality.
 
