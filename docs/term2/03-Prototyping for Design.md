@@ -19,7 +19,8 @@ The easiest was with Arduino Maker Uno, a different board that Wen had that she 
 
 There was a very complete list of songs, which made the exercise quite entertaining. It reminded me of the ringtones I had on my cell phone when I was in elementary school. I wanted to find more modern songs so maybe I could go viral on my social networks, however I didn't find anything, the most updated was an Ed Sheeran song that we found with Wen and Jime, but the melody wasn't that similar either.
 
-Video
+
+![](../images/videom.mp4)
 
 
 ## Week 1 - Class 2 - Parameterization
@@ -31,6 +32,7 @@ It was funny that my answer to Edu's exercise of parameterizing a croissant was 
 ![](../images/medialuna.png)
 My croissant
 
+
 # Parameterization exercise
 
 As part of the work, we have to try different tools and understand how they work. As part of the exercise I reviewed the different tools that we saw on the class: grasshopper, fusion, opencads, fusion 360, blender and stable diffusion. I found the concept of Generative Design very interesting, so I wanted to try Fusion360. All the tools were new to me, so any that I wanted would be a considerable time investment.
@@ -39,14 +41,17 @@ I found out that my undergraduate university has an agreement with Fusion360, so
 
 Then, I searched the internet for available renders created by other people, I was impressed by the large number of renders of weapons, it is worrying the fanaticism of some people for this type of devices that seek to generate harm to other people.
 
+
 ![](../images/armas.png)
-Creating cones
+Guns
+
 
 Idea of the work and initial hypothesis: after my interventions in schools, I would like to use what I learned in fablab to design a game in which children can improve their literacy on issues of environmental awareness and protection, as well as develop their leadership as activists in their environments.
 
 Creative process: The first thing I did was to look for a rendering for the game, our idea is to make a game similar to "Ludo", the sketch I found was quite similar. My challenge was to design some of the game pieces. One of the findings of our workshop with the Sant Andreu School in Badalona, was the concern of the children about the trees in Barcelona, mainly because there are not many according to their point of view. For this reason one of the cards will be trees.
 
 I started by creating cones to represent each level of the tree, then I duplicated them and resized them to simulate a cone. Finally I made the trunk and a base. It seems simple, but it was not, however it is to be expected, whenever you start using a new tool, you have a time of assimilation, which is basically an investment of time.
+
 
 ![](../images/earbol1.png)
 Creating cones
@@ -59,6 +64,7 @@ Tree without base
 
 ![](../images/earbol4.png)
 Final tree
+
 
 Reflection about the process:
 - There is a lot of material available on the internet to learn autonomously. Tutorials are the best way to learn and it is an easy way to do it.
@@ -91,7 +97,7 @@ The challenge was to make a telegraph with arduino. I made the whole attempt, ho
 Then Toni provided me with his code and arduino to test it on my computer and try to move forward, however my changes only made me go backwards in the progress.
 
 ![](../images/inarduino.png)
-tree in laser cutter
+
 
 ## Challenge
 
@@ -109,7 +115,6 @@ The biggest difficulty was in the electronics, I was in charge of the board ligh
 In the next steps I would like to involve more technology, I saw in Clodi and Mari's project the use of an application that they created and people could interact with their device and at the same time with cell phones, I think that is a tremendous development opportunity for us.
 
 ![](../images/yo.jpeg)
-my team
 
 Another improvement is to use sensors and lights to better guide the activity, for example as more people have an opinion the square could be illuminated or instead of having LEDs we could have a series of lights that change color according to the gradient.
 
