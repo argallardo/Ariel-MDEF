@@ -19,8 +19,8 @@ The easiest was with Arduino Maker Uno, a different board that Wen had that she 
 
 There was a very complete list of songs, which made the exercise quite entertaining. It reminded me of the ringtones I had on my cell phone when I was in elementary school. I wanted to find more modern songs so maybe I could go viral on my social networks, however I didn't find anything, the most updated was an Ed Sheeran song that we found with Wen and Jime, but the melody wasn't that similar either.
 
-
-![](../images/videom.mp4)
+Video: 
+<iframe src="https://drive.google.com/file/d/1iTtFWwbqGZDUTK6KsMg1KUnkTinCWPQe/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ## Week 1 - Class 2 - Parameterization
