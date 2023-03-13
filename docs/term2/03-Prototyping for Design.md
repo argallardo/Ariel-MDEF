@@ -127,3 +127,45 @@ Things I learned:
 
 You can review our process in detail on this page:
 https://github.com/wenqianchua/microchallenge-01
+
+## Week 2 - Class 5 - 3D
+
+Eduardo taught us about 3D scanning and 3D printing techniques in a way to visualize new value propose for our personal projects. I have previously worked with 3D printing, however with very specific uses, without the opportunity to explore freely.
+
+The first exercise I did was scanning. With Marc's help the first thing I did was to scan myself, it didn't turn out so well, as the accuracy we had was not good.
+
+![](../images/escaneo1.jpeg)
+
+![](../images/escaneo2.jpeg)
+
+Later, what I did was to scan the Moai that is in the FabLab office, I found it a nice souvenir, because the Moai is a very characteristic element of Chile. To scan it I used a device that rotated the element I wanted to scan. All this made my scanning process easier, which allowed me to have a much more finished file.
+
+![](../images/cura.jpeg)
+
+At my university in Chile I had been taught not to print in solid 3D, but only with a few layers, in a way to save material. Since I was exploring and the use of my Moai was nothing more than experimental, my project only considered 3 surface layers.
+
+<iframe src="https://drive.google.com/file/d/12tr7VCuyKRRafzAmV4nki7mt7R9APIFF/preview" width="640" height="480" allow="autoplay"></iframe>
+
+After 2 hours, I got my Moai 3D printed. The satisfaction of creating and seeing a project materialize is fantastic, it makes me feel somehow like a craftsman.
+
+![](../images/moai.jpeg)
+
+## Week 2 - Class 6  
+
+Today Victor taught us about the Internet and its role in the democratization of information and communication. No doubt it is necessary to make conscious use, since everything we do is recorded. This class was different, because unlike the previous ones, we were not left with an assignment, but rather applied learning during the class. This methodology is much more stimulating and less tedious than the other classes. I am very grateful to Victor. At the same time, the fact that we are all working together generates a much more rewarding collective learning dynamic.
+
+As part of the task we had to connect arduino to wifi and communicate among the different participants in the same space. I worked with Jimena, although Victor asked us to make groups, each one preferred to work on his computer in a way to learn and not leave the work alone to one person.
+
+At the beginning we had problems with the IP address, which had nothing to do with the code we were doing, so Victor worked on that until it was fixed. With the code working and after downloading the PubSubClient library, we created the channel called "Ariel". It was a profitable and successful learning process, I enjoyed it and I will keep in mind how to take advantage of it in the future.
+
+![](../images/holamundo.jpeg)
+
+## Week 2 - Class 7
+
+In this class we learned to give new uses to MQTT servers, this time what we did was to synchronize all the arduinos in the class and coordinate them so that if someone activated the candle mode or flicker mode, all the lights would make those changes. Again I was pleasantly surprised with the class, mainly because I felt it was useful, since I learned in the moment and in a collaborative way.
+
+<iframe src="https://drive.google.com/file/d/12tr7VCuyKRRafzAmV4nki7mt7R9APIFF/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Week 3 - Class 8
+
+Eduardo taught us how to use the CNC machine and opened up a world of possibilities associated with creating furniture. I spent a lot of time searching the internet for projects and ideas about what we could do. Edu told us that each person was assigned an amount of material, however we talked with my group and we all agreed that we could use the material for our group project and in this way not waste the material. Our idea is to make a table of an optimal size to be able to leave our perception map.
