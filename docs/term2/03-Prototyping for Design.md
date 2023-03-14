@@ -144,13 +144,13 @@ Later, what I did was to scan the Moai that is in the FabLab office, I found it 
 
 At my university in Chile I had been taught not to print in solid 3D, but only with a few layers, in a way to save material. Since I was exploring and the use of my Moai was nothing more than experimental, my project only considered 3 surface layers.
 
-<iframe src="https://drive.google.com/file/d/1ti-L4h7NgbKEJGKcK7u2_3NVsNMIOECi/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ti-L4h7NgbKEJGKcK7u2_3NVsNMIOECi/preview" width="640" height="480" allow="autoplay"></iframe>
 
 After 2 hours, I got my Moai 3D printed. The satisfaction of creating and seeing a project materialize is fantastic, it makes me feel somehow like a craftsman.
 
 ![](../images/moai.jpeg)
 
-## Week 2 - Class 6  
+## Week 2 - Class 6 -
 
 Today Victor taught us about the Internet and its role in the democratization of information and communication. No doubt it is necessary to make conscious use, since everything we do is recorded. This class was different, because unlike the previous ones, we were not left with an assignment, but rather applied learning during the class. This methodology is much more stimulating and less tedious than the other classes. I am very grateful to Victor. At the same time, the fact that we are all working together generates a much more rewarding collective learning dynamic.
 
@@ -160,11 +160,11 @@ At the beginning we had problems with the IP address, which had nothing to do wi
 
 ![](../images/holamundo.jpeg)
 
-## Week 2 - Class 7
+## Week 2 - Class 7 - Interfaces
 
 In this class we learned to give new uses to MQTT servers, this time what we did was to synchronize all the arduinos in the class and coordinate them so that if someone activated the candle mode or flicker mode, all the lights would make those changes. Again I was pleasantly surprised with the class, mainly because I felt it was useful, since I learned in the moment and in a collaborative way.
 
-<iframe src="https://drive.google.com/file/d/14zFXIPnzJ8Pyq9Gklk5t2HqoQVkzJ-le/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/14zFXIPnzJ8Pyq9Gklk5t2HqoQVkzJ-le/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Week 3 - Class 8
 
