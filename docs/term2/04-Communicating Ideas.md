@@ -47,3 +47,9 @@ Values
 # Pitch
 
 I am creating futures associated with the care of the environment through the visions of children, to propose a new design framing, and thus create products, services or experiences that meet their expectations.
+
+# Actors
+
+By recreating the exercise we were taught in class to identify our main stakeholders, I realized what we needed from each of our stakeholders in order to successfully carry out our workshop. This will make it easier to be more assertive and effective, avoiding diluting the conversations. I also realized how necessary it is to maintain communications with both IAAC and school teachers, as they are the ones who will authorize us to enter the schools.
+
+![](../images/communi.png)
