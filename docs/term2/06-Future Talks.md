@@ -28,15 +28,15 @@ The Nobodies
 Fleas dream of buying themselves a dog, and nobodies dream of escaping poverty: that one magical day good luck will suddenly rain down on them–will rain down in buckets. But good luck doesn’t rain down yesterday, today, tomorrow, or ever. Good luck doesn’t even fall in a fine drizzle, no matter how hard the nobodies summon it, even if their left hand is tickling, or if they begin the new day with their right foot, or start the new year with a change of brooms.
 The nobodies: nobody’s children, owners of nothing. The nobodies: the no ones, the nobodied, running like rabbits, dying through life, screwed every which way.
 
-Who are not, but could be.
-Who don’t speak languages, but dialects.
-Who don’t have religions, but superstitions.
-Who don’t create art, but handicrafts.
-Who don’t have culture, but folklore.
-Who are not human beings, but human resources.
-Who do not have faces, but arms.
-Who do not have names, but numbers.
-Who do not appear in the history of the world, but in the police blotter of the local paper.
+Who are not, but could be
+Who don’t speak languages, but dialects
+Who don’t have religions, but superstitions
+Who don’t create art, but handicrafts
+Who don’t have culture, but folklore
+Who are not human beings, but human resources
+Who do not have faces, but arms
+Who do not have names, but numbers
+Who do not appear in the history of the world, but in the police blotter of the local paper
 The nobodies, who are not worth the bullet that kills them.
 
 ## Julia Ballesteros y Milena Rosés

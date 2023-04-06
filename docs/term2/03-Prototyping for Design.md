@@ -187,10 +187,10 @@ I was surprised how well and fast we worked together with Jime and Wen. Each one
 ![](../images/ardu-1.jpeg)
 
 Some learnings:
-1. Pre-planning is extremely important to avoid wasting time and wasting material. Spending time planning before acting allowed all of us to be clear about our objective from the beginning.
-2. Dividing responsibilities allowed us to move forward in parallel, but also to not over stress ourselves. Last challenge we suffered a lot more, and were not as satisfied with the delivery, now we were much more confident and could go further.
-3. Although it can be fun to use arduino and programming, it is important not to over-technologize or use technology just for the sake of using it, without questioning if it is really a contribution or not. We had many ideas, but we discarded some of them because they could be more distracting for the children. We had to be constantly balancing our imagination to avoid undermining the ultimate goal of our perception map.
-4. It is very important to be flexible, during the development we had to modify many things in order to be effective, for example we modified the interaction with the perception map and the usefulness of the microphone.
+1. Pre-planning is extremely important to avoid wasting time and wasting material. Spending time planning before acting allowed all of us to be clear about our objective from the beginning
+2. Dividing responsibilities allowed us to move forward in parallel, but also to not over stress ourselves. Last challenge we suffered a lot more, and were not as satisfied with the delivery, now we were much more confident and could go further
+3. Although it can be fun to use arduino and programming, it is important not to over-technologize or use technology just for the sake of using it, without questioning if it is really a contribution or not. We had many ideas, but we discarded some of them because they could be more distracting for the children. We had to be constantly balancing our imagination to avoid undermining the ultimate goal of our perception map
+4. It is very important to be flexible, during the development we had to modify many things in order to be effective, for example we modified the interaction with the perception map and the usefulness of the microphone
 5. Personally I learned that it is much easier to program and work with arduino in a stepwise way, that is, first start by making the basic tutorial, and when this works, move to a second stage with higher specifications. This way I was improving more and more the code, the outputs and the interaction between different inputs.
 
 <iframe src="https://drive.google.com/file/d/16vvRVimmYO-sxQxR-dgNAKxNHtgwH7Sd/preview" width="640" height="480" allow="autoplay"></iframe>
