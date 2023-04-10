@@ -172,11 +172,11 @@ Eduardo taught us how to use the CNC machine and opened up a world of possibilit
 
 We decided to CNC a box to store the different cards that we were going to use in our perception map. Working in CNC was much more complex than I expected, the machine was much more technical and had higher formatting requirements. We used a document we found on the internet and modified it to have the dimensions we needed.
 
-![](../images/week3.jpeg)
+![](../images/week3.png)
 
 We had to sand a lot to get a better presentation, but there were still some marks on the wood. I learned that to work with CNC you have to be very careful with the parameterization.
 
-![](../images/week3-2.jpeg)
+![](../images/week3-2.png)
 
 ## Challenge 2
 
