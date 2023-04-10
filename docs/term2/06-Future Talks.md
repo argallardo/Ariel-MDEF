@@ -23,7 +23,7 @@ Before the master I had never heard about colonization in design environments. T
 
 As a reflection I share Galeano's poem, "Los nadie".
 
-The Nobodies
+ **The Nobodies**
 
 Fleas dream of buying themselves a dog, and nobodies dream of escaping poverty: that one magical day good luck will suddenly rain down on them–will rain down in buckets. But good luck doesn’t rain down yesterday, today, tomorrow, or ever. Good luck doesn’t even fall in a fine drizzle, no matter how hard the nobodies summon it, even if their left hand is tickling, or if they begin the new day with their right foot, or start the new year with a change of brooms.
 The nobodies: nobody’s children, owners of nothing. The nobodies: the no ones, the nobodied, running like rabbits, dying through life, screwed every which way.
