@@ -5,7 +5,7 @@ hide:
 
 # Distributed Design
 
-Distributed Design is a seminar where I learned new methodologies and frameworks to approach a problem. Personally, my experience as an engineer and public relations consultant, the systematization and conceptualization tools are extremely valuable, as it allows me to frame the problems and be able to decompose each of its parts. The attractive part of the approach we learned were the new dimensions associated with regenerative design and the concern for the installation of capabilities in clients/users, as a way to transmit and give potential to what we do.
+During the seminar I learned new methodologies and frameworks to approach a problem. Personally, my experience as an engineer and public relations consultant, the systematization and conceptualization tools are extremely valuable, as it allows me to frame the problems and be able to decompose each of its parts. The attractive part of the approach we learned were the new dimensions associated with regenerative design and the concern for the installation of capabilities in users/communities, as a way to transmit and give potential to what we do (and be "distributed").
 
 ## Day 1
 
@@ -24,7 +24,7 @@ At the beginning I felt that what was most difficult was how to translate everyt
 
 Did the role I played influence my opinion?
 
-My contribution was to mention dimensions associated with the economics and engineering operation of Chat GPT, taking advantage of my knowledge as a former public relations consultant and engineer, which was very useful because it opened up conversations regarding political power, technology gaps and potential ethical risks of the tool. This allowed me to add different perspectives from my colleagues, which materialized in what we wrote in the mushroom model.
+My contribution was to mention dimensions associated with the economics and engineering operation of Chat GPT, taking advantage of my knowledge and professional experience, which was very useful because it opened up conversations regarding political power, technology gaps and potential ethical risks of the tool. This allowed me to add different perspectives from my colleagues, which materialized in what we wrote in the mushroom model.
 
 ## Day 2
 The second day we worked on the Reflection Tree as a group with Wen and Jime, since we have the same project. The interesting thing was to submit our idea to a new board with dimensions that we had never questioned before, for example, everything that had to do with environmental regeneration. Environmental regeneration was our lowest point and something that we are going to integrate in our final product. It was a very good insight to be able to identify this improvement, as it gives us practical lights on where to go with our project.
