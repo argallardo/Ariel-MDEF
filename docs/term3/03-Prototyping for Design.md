@@ -5,195 +5,48 @@ hide:
 
 # Prototyping for Design
 
-## Week 1 - Class 1 - Introduction and Arduino exercise
+## Week 1 - Robots
 
-In today's class, we had an introduction of what we are going to face during the next weeks. Now is the most maker stage of the program, it is certainly something challenging for me, at first it did not seem so attractive, but after my experiences doing interventions I have discovered a taste for leaving the theory and move to action. I also believe that what is relevant for my personal objectives is to share the learning I have achieved through the master's degree with others, not in a unidirectional way, but by devising new workshops and methodologies so that people can also reach the same conclusion but in an autonomous way.  
+This week we learned about the robotic arm and had the opportunity to use it. One of the most relevant things for me this week was learning about the existence of this tool. As Josep explained to us, the robotic arm has many uses that can make our lives easier. First of all, the precision it has allows us to assemble things, assemble microchips, position things in very specific spaces. At the same time, it has the strength to move and carry things, which allows us to surpass human capabilities.
 
-During the presentation, we had an introduction about technology and how we interact with it. My studies in engineering have allowed me to be super close to the problems associated with understanding technology, so part of the reflections we had during the presentation made a lot of sense to me. At the same time, despite the danger of new digital tools, I think they are a great contribution to the work of the person. From a social point of view, and away from the master, I think we have to manage to channel these changes in the various areas of impact, such as labor, educational and productive. In this dimension, design has a lot to do and maker culture has even more to do, since it can reduce the gap through tools that are easier to understand.
+Finally, we went to the other IAAC site to use the robotic arm. I had the opportunity to control it, however I lacked much more confidence in my movements and more understanding of how to control speeds, angles and directions, as I did not meet the goal I wanted to achieve with the machine (go through the middle of an adhesive tape).
 
-First challenge
+Within the week's work we also used the parametric modeling tool Grasshoper. The truth is that I could not do much because my computer had no memory, but I could understand how the system behind the tool works. Seeing actions, functions and their specifications.
 
-The first challenge was to operate a speaker through arduino. We had done this before with my group, so it didn't have to be that difficult. I managed to get it to operate with extremely basic connections, thanks to a youtube tutorial, however the sounds were quite limited. I felt provoked by the different tunes my classmates were making, so I asked them to help me do it too.
+Finally, we went to the other IAAC site to use the robotic arm. I had the opportunity to control it, however I lacked much more confidence in my movements and more understanding of how to control speeds, angles and directions, as I did not meet the goal I wanted to achieve with the machine (go through the middle of an adhesive tape).
 
-The easiest was with Arduino Maker Uno, a different board that Wen had that she had used in a workshop with kids years ago. I followed the tutorial Marielle shared with me and we got to work.
+![](../images/mano.gif)
+![](../images/des1.jpeg)
 
-There was a very complete list of songs, which made the exercise quite entertaining. It reminded me of the ringtones I had on my cell phone when I was in elementary school. I wanted to find more modern songs so maybe I could go viral on my social networks, however I didn't find anything, the most updated was an Ed Sheeran song that we found with Wen and Jime, but the melody wasn't that similar either.
 
-Video:
-<iframe src="https://drive.google.com/file/d/1iTtFWwbqGZDUTK6KsMg1KUnkTinCWPQe/preview" width="640" height="480" allow="autoplay"></iframe>
+## Week 2 - Blender
 
+In this class Victor introduced us to Blender. I think the most relevant thing was the critical point of view that Victor has about the software and the use we give to it. I think this kind of classes teach us much more than the tool itself, because due to the characteristics of the environment in which we have grown up, probably we have all learned to use a program independently, without the need of having to have a teacher, just a tutorial and knowing how to search the internet. However, the critical vision that Victor transmits allows us to question ourselves more about what we are doing, if what we are designing or assembling in a software is something we really wanted to do or we just let ourselves get carried away by the recommendations/limitations of the software. I think this is a very valuable learning that can be applied to many aspects of life.
 
-## Week 1 - Class 2 - Parameterization
+## Week 3 - Interacciones humanas
 
-This class reminded me a bit of what I learned in engineering, it was horrible flashbacks to Calculus 2 class, there I learned about graph and formula based parameterization, vectorization and linear algebra. I think because of this I in general it is easy to assimilate how the different tools work.
+This week we used https://hydra.ojack.xyz/ to learn live coding. I think it is a tremendous tool to introduce the world of programming to kids or people who have never done it. It reminds me a lot of Google - Grasshopper, as once for a workshop with kids we used it and it worked very well, since as the kids programmed you could see the progress. I had fun playing, changing parameters and imagining possible uses of the tool in the context of Big Little Futures, the project we are running with the Badalona School.
 
-It was funny that my answer to Edu's exercise of parameterizing a croissant was a wolfram alpha function, where it is parameterized through two functions and limiting their solution space, through functions. I think that the most striking and important part of the learning is how all that abstract and complex content that I learned in engineering, now could make sense, since what I parameterize can be made real through 3D printers. I am not unaware of the learning I had in engineering, however many times the exercises were not very applied and far from what I might ever need. With FabAcademy at least I can focus on learning while still doing things that are useful for my master's work.
+![](../images/interfaz.jpeg)
 
-![](../images/medialuna.png)
-My croissant
 
+## Week 4 - Blender + Python
 
-# Parameterization exercise
+In this seminar we learned about Blender, its uses and the modifications we can achieve using python. Victor taught us how to "hack it" which is very interesting because it opens a wide range of possibilities about what we can do.
 
-As part of the work, we have to try different tools and understand how they work. As part of the exercise I reviewed the different tools that we saw on the class: grasshopper, fusion, opencads, fusion 360, blender and stable diffusion. I found the concept of Generative Design very interesting, so I wanted to try Fusion360. All the tools were new to me, so any that I wanted would be a considerable time investment.
+During the class we modeled the face of a monkey, making different changes to learn the functionalities of Blender.
 
-I found out that my undergraduate university has an agreement with Fusion360, so I chose that software and started learning with this tutorial.
 
-Then, I searched the internet for available renders created by other people, I was impressed by the large number of renders of weapons, it is worrying the fanaticism of some people for this type of devices that seek to generate harm to other people.
 
+## Challenge final
 
-![](../images/armas.png)
-Guns
+During the final challenge we were asked to create an interface. For us it was difficult at first, because Santi and Victor wanted to know the reason for our proposal, which was complex to answer because the truth was that we were doing it only because they asked us to, but until that moment we did not find that it added value to what we were going to do in the MDEF Fest.
 
+After some more thought, what we made was a futures collector, which allowed us to collect with images the futures that the children were dreaming about. This way it was going to be much easier to generate conversations about that future and also stimulate creativity.
 
-Idea of the work and initial hypothesis: after my interventions in schools, I would like to use what I learned in fablab to design a game in which children can improve their literacy on issues of environmental awareness and protection, as well as develop their leadership as activists in their environments.
+From a technical point of view, much of what we did was achieved thanks to Chat GPT, I think as a group we learned the skill of how to be accurate in asking the IA and recognizing the potential benefits to improve our project. At the same time, through the queries we made to the platform, we were able to understand what it was doing.
 
-Creative process: The first thing I did was to look for a rendering for the game, our idea is to make a game similar to "Ludo", the sketch I found was quite similar. My challenge was to design some of the game pieces. One of the findings of our workshop with the Sant Andreu School in Badalona, was the concern of the children about the trees in Barcelona, mainly because there are not many according to their point of view. For this reason one of the cards will be trees.
+As next steps we want to be able to host the platform designed online, so that anyone can access it from their device. We also want that when the person chooses his or her future, it will be saved in a notebook, so that we can collect the futures of all the children in a simpler way.
 
-I started by creating cones to represent each level of the tree, then I duplicated them and resized them to simulate a cone. Finally I made the trunk and a base. It seems simple, but it was not, however it is to be expected, whenever you start using a new tool, you have a time of assimilation, which is basically an investment of time.
-
-
-![](../images/earbol1.png)
-Creating cones
-
-![](../images/earbol2.png)
-Duplicate cones and sizes changed
-
-![](../images/earbol3.png)
-Tree without base
-
-![](../images/earbol4.png)
-Final tree
-
-
-Reflection about the process:
-- There is a lot of material available on the internet to learn autonomously. Tutorials are the best way to learn and it is an easy way to do it.
-- At the beginning it was difficult, but then it became more and more intuitive.
-I need a mouse, it is impossible to work with the mousepad of the mac.
-- There is a tremendous potential that can make my life easier, mainly because I don't like to work with physical tools, so designing through this way and then printing is something much more comfortable for me.
-
-## Week 1 - Class 3 - Cutting on a laser machine
-
-Cutting on a laser machine and 3D printing are some of the most useful things in recent times. During college some friends of mine started selling different objects made with pieces made on a laser cutter: lamps, key chains and furniture.
-
-As part of the activity we had to use the laser cutting machine. Following our idea, my goal was to cut with the machine a figure of the possible game.
-
-The first thing I did was to consult in different repositories where I could find a tree vector and I found one that was quite useful for me, which simulated a Christmas tree. After learning well how the cutter works and finding out with my colleagues, I prepared the files to cut.
-
-![](../images/cutter.png)
-tree in laser cutter
-
-I had everything ready to cut on Thursday, however I had to leave because I had a prior commitment. I scheduled a time to use the cutter on Tuesday.
-
-
-## Week 1 - Class 4 - Input and output
-
-I think that human-machine interaction is one of the most interesting things we can learn in the master. As we learned in the seminar, there are different types of sensors. I was very interested in the ones that were associated with measurements of environmental elements. At the beginning I was very interested in what was being done with SmartCitizen, I wanted to use that technology in my project, but it could be very difficult, and probably I will need more time to do this, and with the time in class, tasks and personal work, it will be impossible. I was very interested in the monitoring of queality of air, because in my country, Chile, this is a huge problem.
-
-For my project, I think that sensors can help to guide the activities I want to do with the children, or generate visualizations that allow to understand first conclusions and trends.
-
-The challenge was to make a telegraph with arduino. I made the whole attempt, however, until Thursday I only managed to activate the lights with the button. It always happens to me with Arduino, that the simplest steps end up being very complex, generally for not following the instructions correctly. Everything related to electronics is a challenge, however I am very aware of how useful it can be for my project.
-
-Then Toni provided me with his code and arduino to test it on my computer and try to move forward, however my changes only made me go backwards in the progress.
-
-![](../images/inarduino.png)
-
-
-## First Micro Challenge
-
-Working with Jimena and Wen is very comfortable, in general it is very easy for us to make decisions, which facilitates our work and allows us to move forward more quickly. The idea was different from the one I proposed, and we did not make a game, but a perception map, as a way to stimulate debate, the generation of new ideas and literacy on issues of climate crisis, mental health and gender equality.
-
-I think our idea is quite useful for facilitating discussion processes and team building activities. Sharing points of view helps us to make our own blind spots visible.
-
-Our structure based on: discussion of idea, planning and then execution was very useful to make the experience not so traumatic. Thanks to this activity I remembered how to use the laser cutter and imagine future uses for personal projects. Work with rhino designing the emoji tokens and cutting them on the machine. In the first iteration with cardboard Wen took the lead since she already knew how to use it and the second day with wood, Jimena and I made the cuts.
-
-![](../images/team.jpeg)
-my team
-
-The biggest difficulty was in the electronics, I was in charge of the board lights and because of a bad connection inside the board, our progress was stopped for a few hours. Much of the FabLab team was helping me with the problem, my led would light up when any object approached it, something much more complex than we needed. Then the problem was to connect all the pins to the arduino, the positive thing is that we were able to correct it fast.
-
-<iframe src="https://drive.google.com/file/d/12tr7VCuyKRRafzAmV4nki7mt7R9APIFF/preview" width="640" height="480" allow="autoplay"></iframe>
-
-In the next steps I would like to involve more technology, I saw in Clodi and Mari's project the use of an application that they created and people could interact with their device and at the same time with cell phones, I think that is a tremendous development opportunity for us.
-
-![](../images/yo.jpeg)
-
-Another improvement is to use sensors and lights to better guide the activity, for example as more people have an opinion the square could be illuminated or instead of having LEDs we could have a series of lights that change color according to the gradient.
-
-Things I learned:
-- Even though you are trying something very simple with Arduino, this can get complicated. You have to be neat and follow each step.
-- Using rhino and laser cutting. How to regulate each of the parameters to avoid burning the wood and affecting the aesthetics of our project.
-- The importance of documenting the process permanently and not at the end of the process. I learned this from Wen and Jime, both have this work methodology, which makes it much easier, since we can consult the steps and not lose focus on what we are doing.
-
-You can review our process in detail on this page:
-https://github.com/wenqianchua/microchallenge-01
-
-## Week 2 - Class 5 - 3D
-
-Eduardo taught us about 3D scanning and 3D printing techniques in a way to visualize new value propose for our personal projects. I have previously worked with 3D printing, however with very specific uses, without the opportunity to explore freely.
-
-The first exercise I did was scanning. With Marc's help the first thing I did was to scan myself, it didn't turn out so well, as the accuracy we had was not good.
-
-![](../images/escaneo1.jpeg)
-
-![](../images/escaneo2.jpeg)
-
-Later, what I did was to scan the Moai that is in the FabLab office, I found it a nice souvenir, because the Moai is a very characteristic element of Chile. To scan it I used a device that rotated the element I wanted to scan. All this made my scanning process easier, which allowed me to have a much more finished file.
-
-![](../images/cura.jpeg)
-
-At my university in Chile I had been taught not to print in solid 3D, but only with a few layers, in a way to save material. Since I was exploring and the use of my Moai was nothing more than experimental, my project only considered 3 surface layers.
-
-<iframe src="https://drive.google.com/file/d/1ti-L4h7NgbKEJGKcK7u2_3NVsNMIOECi/preview" width="640" height="480" allow="autoplay"></iframe>
-
-After 2 hours, I got my Moai 3D printed. The satisfaction of creating and seeing a project materialize is fantastic, it makes me feel somehow like a craftsman.
-
-![](../images/moai.jpeg)
-
-## Week 2 - Class 6 -
-
-Today Victor taught us about the Internet and its role in the democratization of information and communication. No doubt it is necessary to make conscious use, since everything we do is recorded. This class was different, because unlike the previous ones, we were not left with an assignment, but rather applied learning during the class. This methodology is much more stimulating and less tedious than the other classes. I am very grateful to Victor. At the same time, the fact that we are all working together generates a much more rewarding collective learning dynamic.
-
-As part of the task we had to connect arduino to wifi and communicate among the different participants in the same space. I worked with Jimena, although Victor asked us to make groups, each one preferred to work on his computer in a way to learn and not leave the work alone to one person.
-
-At the beginning we had problems with the IP address, which had nothing to do with the code we were doing, so Victor worked on that until it was fixed. With the code working and after downloading the PubSubClient library, we created the channel called "Ariel". It was a profitable and successful learning process, I enjoyed it and I will keep in mind how to take advantage of it in the future.
-
-![](../images/holamundo.jpeg)
-
-## Week 2 - Class 7 - Interfaces
-
-In this class we learned to give new uses to MQTT servers, this time what we did was to synchronize all the arduinos in the class and coordinate them so that if someone activated the candle mode or flicker mode, all the lights would make those changes. Again I was pleasantly surprised with the class, mainly because I felt it was useful, since I learned in the moment and in a collaborative way.
-
-<iframe src="https://drive.google.com/file/d/14zFXIPnzJ8Pyq9Gklk5t2HqoQVkzJ-le/preview" width="640" height="480" allow="autoplay"></iframe>
-
-## Week 3 - Class 8
-
-Eduardo taught us how to use the CNC machine and opened up a world of possibilities associated with creating furniture. I spent a lot of time searching the internet for projects and ideas about what we could do. Edu told us that each person was assigned an amount of material, however we talked with my group and we all agreed that we could use the material for our group project and in this way not waste the material. Our idea is to make a table of an optimal size to be able to leave our perception map.
-
-We decided to CNC a box to store the different cards that we were going to use in our perception map. Working in CNC was much more complex than I expected, the machine was much more technical and had higher formatting requirements. We used a document we found on the internet and modified it to have the dimensions we needed.
-
-![](../images/week3.png)
-
-We had to sand a lot to get a better presentation, but there were still some marks on the wood. I learned that to work with CNC you have to be very careful with the parameterization.
-
-![](../images/week3-2.png)
-
-## Challenge 2
-
-For the second challenge we decided to create accessories for our perception map created in the first challenge. We made 3 new things: a card holder, the CNC case and a 3D microphone.
-
-I was surprised how well and fast we worked together with Jime and Wen. Each one was in charge of a specific area, which allowed us to advance in parallel in a much faster way. My task was to be in charge of the Arduino programming. I had fun playing with inputs and outputs, and looking for ways in which the technology made it easier to interact with our device.
-
-![](../images/ardu-1.jpeg)
-
-Some learnings:
-1. Pre-planning is extremely important to avoid wasting time and wasting material. Spending time planning before acting allowed all of us to be clear about our objective from the beginning
-2. Dividing responsibilities allowed us to move forward in parallel, but also to not over stress ourselves. Last challenge we suffered a lot more, and were not as satisfied with the delivery, now we were much more confident and could go further
-3. Although it can be fun to use arduino and programming, it is important not to over-technologize or use technology just for the sake of using it, without questioning if it is really a contribution or not. We had many ideas, but we discarded some of them because they could be more distracting for the children. We had to be constantly balancing our imagination to avoid undermining the ultimate goal of our perception map
-4. It is very important to be flexible, during the development we had to modify many things in order to be effective, for example we modified the interaction with the perception map and the usefulness of the microphone
-5. Personally I learned that it is much easier to program and work with arduino in a stepwise way, that is, first start by making the basic tutorial, and when this works, move to a second stage with higher specifications. This way I was improving more and more the code, the outputs and the interaction between different inputs.
-
-<iframe src="https://drive.google.com/file/d/16vvRVimmYO-sxQxR-dgNAKxNHtgwH7Sd/preview" width="640" height="480" allow="autoplay"></iframe>
-
-Repo:
+HackMD:
 https://github.com/jimenasalinasgroppo/microchallenge-02
