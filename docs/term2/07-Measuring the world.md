@@ -24,15 +24,19 @@ objective in a sentence
 To create a better environment for learning and wellbeing in (our) MDEF classrooom but proving the current class conditions are sub-optimal.
 
 question(s) in a sentence
+
 Is the air and light quality in the MDEF classroom conducive to optimal health and learning conditions?
 
 hypothesis in a sentence
+
 The MDEF classroom has poor ventilation, air quality, natural light levels, and noise quality.
 
 null hypothesis in a sentence
+
 The MDEF classroom environment is optimal for learning.
 
 reasoning in a sentence
+
 the MDEF classroom is a non-concentration friendly environment.
 
 The main limitation we had during the development of the exercise was that we did not have enough data to be able to conclude conclusively whether our hypothesis was fulfilled or not. However, now with the new data collected, we can answer the questions more robustly.
