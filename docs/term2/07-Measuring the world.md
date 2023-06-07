@@ -21,7 +21,7 @@ Remembering, the goal of the exercise was the following:
 
 hypothesis in a sentence:
 
-The MDEF classroom has poor ventilation, air quality, natural light levels, and noise quality.
+<p> The MDEF classroom has poor ventilation, air quality, natural light levels, and noise quality.</p>
 
 null hypothesis in a sentence:
 
