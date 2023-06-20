@@ -33,7 +33,7 @@ It was funny that my answer to Edu's exercise of parameterizing a croissant was 
 My croissant
 
 
-# Task 3 - 2D Fabrication
+## Task 3 - 2D Fabrication
 
 As part of the work, we have to try different tools and understand how they work. As part of the exercise I reviewed the different tools that we saw on the class: grasshopper, fusion, opencads, fusion 360, blender and stable diffusion. I found the concept of Generative Design very interesting, so I wanted to try Fusion360. All the tools were new to me, so any that I wanted would be a considerable time investment.
 
