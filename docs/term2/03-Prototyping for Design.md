@@ -5,7 +5,7 @@ hide:
 
 # Prototyping for Design
 
-## Week 1 - Class 1 - Introduction and Arduino exercise
+## Task 1 - Basic E C
 
 In today's class, we had an introduction of what we are going to face during the next weeks. Now is the most maker stage of the program, it is certainly something challenging for me, at first it did not seem so attractive, but after my experiences doing interventions I have discovered a taste for leaving the theory and move to action. I also believe that what is relevant for my personal objectives is to share the learning I have achieved through the master's degree with others, not in a unidirectional way, but by devising new workshops and methodologies so that people can also reach the same conclusion but in an autonomous way.  
 
@@ -23,7 +23,7 @@ Video:
 <iframe src="https://drive.google.com/file/d/1iTtFWwbqGZDUTK6KsMg1KUnkTinCWPQe/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
-## Week 1 - Class 2 - Parameterization
+## Task 2 - Design Tools
 
 This class reminded me a bit of what I learned in engineering, it was horrible flashbacks to Calculus 2 class, there I learned about graph and formula based parameterization, vectorization and linear algebra. I think because of this I in general it is easy to assimilate how the different tools work.
 
@@ -33,7 +33,7 @@ It was funny that my answer to Edu's exercise of parameterizing a croissant was 
 My croissant
 
 
-# Parameterization exercise
+# Task 3 - 2D Fabrication
 
 As part of the work, we have to try different tools and understand how they work. As part of the exercise I reviewed the different tools that we saw on the class: grasshopper, fusion, opencads, fusion 360, blender and stable diffusion. I found the concept of Generative Design very interesting, so I wanted to try Fusion360. All the tools were new to me, so any that I wanted would be a considerable time investment.
 
@@ -72,7 +72,7 @@ Reflection about the process:
 I need a mouse, it is impossible to work with the mousepad of the mac.
 - There is a tremendous potential that can make my life easier, mainly because I don't like to work with physical tools, so designing through this way and then printing is something much more comfortable for me.
 
-## Week 1 - Class 3 - Cutting on a laser machine
+##  Cutting on a laser machine
 
 Cutting on a laser machine and 3D printing are some of the most useful things in recent times. During college some friends of mine started selling different objects made with pieces made on a laser cutter: lamps, key chains and furniture.
 
@@ -86,7 +86,7 @@ tree in laser cutter
 I had everything ready to cut on Thursday, however I had to leave because I had a prior commitment. I scheduled a time to use the cutter on Tuesday.
 
 
-## Week 1 - Class 4 - Input and output
+## Task 4 - Input and output
 
 I think that human-machine interaction is one of the most interesting things we can learn in the master. As we learned in the seminar, there are different types of sensors. I was very interested in the ones that were associated with measurements of environmental elements. At the beginning I was very interested in what was being done with SmartCitizen, I wanted to use that technology in my project, but it could be very difficult, and probably I will need more time to do this, and with the time in class, tasks and personal work, it will be impossible. I was very interested in the monitoring of queality of air, because in my country, Chile, this is a huge problem.
 
@@ -128,7 +128,17 @@ Things I learned:
 You can review our process in detail on this page:
 https://github.com/wenqianchua/microchallenge-01
 
-## Week 2 - Class 5 - 3D
+## Task 5 - Networking
+
+Today Victor taught us about the Internet and its role in the democratization of information and communication. No doubt it is necessary to make conscious use, since everything we do is recorded. This class was different, because unlike the previous ones, we were not left with an assignment, but rather applied learning during the class. This methodology is much more stimulating and less tedious than the other classes. I am very grateful to Victor. At the same time, the fact that we are all working together generates a much more rewarding collective learning dynamic.
+
+As part of the task we had to connect arduino to wifi and communicate among the different participants in the same space. I worked with Jimena, although Victor asked us to make groups, each one preferred to work on his computer in a way to learn and not leave the work alone to one person.
+
+At the beginning we had problems with the IP address, which had nothing to do with the code we were doing, so Victor worked on that until it was fixed. With the code working and after downloading the PubSubClient library, we created the channel called "Ariel". It was a profitable and successful learning process, I enjoyed it and I will keep in mind how to take advantage of it in the future.
+
+![](../images/holamundo.jpeg)
+
+## Task 6 - 3D printing
 
 Eduardo taught us about 3D scanning and 3D printing techniques in a way to visualize new value propose for our personal projects. I have previously worked with 3D printing, however with very specific uses, without the opportunity to explore freely.
 
@@ -150,23 +160,14 @@ After 2 hours, I got my Moai 3D printed. The satisfaction of creating and seeing
 
 ![](../images/moai.jpeg)
 
-## Week 2 - Class 6 -
 
-Today Victor taught us about the Internet and its role in the democratization of information and communication. No doubt it is necessary to make conscious use, since everything we do is recorded. This class was different, because unlike the previous ones, we were not left with an assignment, but rather applied learning during the class. This methodology is much more stimulating and less tedious than the other classes. I am very grateful to Victor. At the same time, the fact that we are all working together generates a much more rewarding collective learning dynamic.
-
-As part of the task we had to connect arduino to wifi and communicate among the different participants in the same space. I worked with Jimena, although Victor asked us to make groups, each one preferred to work on his computer in a way to learn and not leave the work alone to one person.
-
-At the beginning we had problems with the IP address, which had nothing to do with the code we were doing, so Victor worked on that until it was fixed. With the code working and after downloading the PubSubClient library, we created the channel called "Ariel". It was a profitable and successful learning process, I enjoyed it and I will keep in mind how to take advantage of it in the future.
-
-![](../images/holamundo.jpeg)
-
-## Week 2 - Class 7 - Interfaces
+## Task 7 - Interfaces
 
 In this class we learned to give new uses to MQTT servers, this time what we did was to synchronize all the arduinos in the class and coordinate them so that if someone activated the candle mode or flicker mode, all the lights would make those changes. Again I was pleasantly surprised with the class, mainly because I felt it was useful, since I learned in the moment and in a collaborative way.
 
 <iframe src="https://drive.google.com/file/d/14zFXIPnzJ8Pyq9Gklk5t2HqoQVkzJ-le/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Week 3 - Class 8
+## Task 8 - CNC
 
 Eduardo taught us how to use the CNC machine and opened up a world of possibilities associated with creating furniture. I spent a lot of time searching the internet for projects and ideas about what we could do. Edu told us that each person was assigned an amount of material, however we talked with my group and we all agreed that we could use the material for our group project and in this way not waste the material. Our idea is to make a table of an optimal size to be able to leave our perception map.
 
@@ -178,7 +179,7 @@ We had to sand a lot to get a better presentation, but there were still some mar
 
 ![](../images/week3-2.png)
 
-## Challenge 2
+## Second Micro Challenge
 
 For the second challenge we decided to create accessories for our perception map created in the first challenge. We made 3 new things: a card holder, the CNC case and a 3D microphone.
 
